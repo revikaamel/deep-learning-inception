@@ -1,5 +1,3 @@
-# Deep Learning Image Classification using InceptionV3
-
 ## Deskripsi Proyek
 Project ini merupakan implementasi Deep Learning untuk klasifikasi citra menggunakan arsitektur **InceptionV3** dengan pendekatan **Transfer Learning**. Model digunakan untuk mengklasifikasikan gambar pemandangan ke dalam beberapa kategori menggunakan dataset **Intel Image Classification** dari Kaggle.
 
